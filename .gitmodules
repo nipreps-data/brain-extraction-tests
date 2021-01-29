@@ -1,0 +1,4 @@
+[submodule "epi-references"]
+	path = epi-references
+	url = ./epi-references
+	datalad-id = ac5b54f9-fe33-46f7-8551-ae47685daf2c
